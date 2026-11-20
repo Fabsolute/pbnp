@@ -1,0 +1,811 @@
+{
+ "pxScale": 1.4535,
+ "picWidth": 2000,
+ "picHeight": 1114,
+ "land": [
+  {
+   "kind": "grass",
+   "cx": 1150,
+   "cy": 250,
+   "rx": 350,
+   "ry": 230
+  },
+  {
+   "kind": "grass",
+   "cx": 900,
+   "cy": 520,
+   "rx": 520,
+   "ry": 230
+  },
+  {
+   "kind": "grass",
+   "cx": 950,
+   "cy": 800,
+   "rx": 540,
+   "ry": 190
+  },
+  {
+   "kind": "grass",
+   "cx": 420,
+   "cy": 650,
+   "rx": 300,
+   "ry": 180
+  },
+  {
+   "kind": "grass",
+   "cx": 330,
+   "cy": 860,
+   "rx": 220,
+   "ry": 120
+  },
+  {
+   "kind": "grass",
+   "cx": 1420,
+   "cy": 560,
+   "rx": 260,
+   "ry": 200
+  },
+  {
+   "kind": "grass",
+   "cx": 370,
+   "cy": 260,
+   "rx": 250,
+   "ry": 140
+  },
+  {
+   "kind": "grass",
+   "cx": 1560,
+   "cy": 860,
+   "rx": 120,
+   "ry": 110
+  },
+  {
+   "kind": "grass",
+   "cx": 1900,
+   "cy": 480,
+   "rx": 110,
+   "ry": 140
+  },
+  {
+   "kind": "grass",
+   "cx": 130,
+   "cy": 80,
+   "rx": 55,
+   "ry": 35
+  },
+  {
+   "kind": "sand",
+   "cx": 1740,
+   "cy": 210,
+   "rx": 130,
+   "ry": 200
+  },
+  {
+   "kind": "sand",
+   "cx": 1700,
+   "cy": 760,
+   "rx": 160,
+   "ry": 190
+  },
+  {
+   "kind": "sand",
+   "cx": 640,
+   "cy": 115,
+   "rx": 50,
+   "ry": 40
+  },
+  {
+   "kind": "sand",
+   "cx": 1840,
+   "cy": 100,
+   "rx": 60,
+   "ry": 50
+  },
+  {
+   "kind": "sand",
+   "cx": 690,
+   "cy": 1000,
+   "rx": 140,
+   "ry": 60
+  }
+ ],
+ "paths": [
+  {
+   "kind": "river",
+   "width": 28,
+   "pts": [
+    840,
+    215,
+    980,
+    230,
+    1010,
+    300,
+    1012,
+    480,
+    1005,
+    540
+   ]
+  },
+  {
+   "kind": "river",
+   "width": 28,
+   "pts": [
+    1005,
+    540,
+    1000,
+    640,
+    910,
+    670,
+    810,
+    650,
+    700,
+    610,
+    560,
+    600,
+    520,
+    540,
+    490,
+    480
+   ]
+  },
+  {
+   "kind": "river",
+   "width": 26,
+   "pts": [
+    900,
+    730,
+    915,
+    850,
+    905,
+    970
+   ]
+  },
+  {
+   "kind": "dirt",
+   "width": 50,
+   "pts": [
+    250,
+    760,
+    450,
+    735,
+    700,
+    745,
+    900,
+    730,
+    1200,
+    712,
+    1450,
+    700,
+    1560,
+    640
+   ]
+  },
+  {
+   "kind": "dirt",
+   "width": 34,
+   "pts": [
+    880,
+    300,
+    950,
+    290,
+    1030,
+    300,
+    1100,
+    350,
+    1150,
+    320
+   ]
+  },
+  {
+   "kind": "dirt",
+   "width": 40,
+   "pts": [
+    260,
+    330,
+    420,
+    320
+   ]
+  },
+  {
+   "kind": "dirt",
+   "width": 30,
+   "pts": [
+    1300,
+    180,
+    1400,
+    260,
+    1470,
+    330
+   ]
+  },
+  {
+   "kind": "dirt",
+   "width": 30,
+   "pts": [
+    990,
+    700,
+    990,
+    760
+   ]
+  }
+ ],
+ "objects": [
+  {
+   "sprite": "tower_orange",
+   "x": 770,
+   "y": 335,
+   "zone": "Treehouse Mill"
+  },
+  {
+   "sprite": "sails",
+   "x": 770,
+   "y": 160,
+   "zone": "Treehouse Mill",
+   "center": true,
+   "frame": 1,
+   "bias": 400
+  },
+  {
+   "sprite": "tower_blue",
+   "x": 1042,
+   "y": 140,
+   "zone": "Blue Tower"
+  },
+  {
+   "sprite": "house_blue",
+   "x": 1292,
+   "y": 100,
+   "zone": "Blue Hall"
+  },
+  {
+   "sprite": "house_blue",
+   "x": 1338,
+   "y": 100,
+   "zone": "Blue Hall"
+  },
+  {
+   "sprite": "house_blue",
+   "x": 1225,
+   "y": 225,
+   "zone": "Blue Cottage"
+  },
+  {
+   "sprite": "house_blue",
+   "x": 1270,
+   "y": 225,
+   "zone": "Blue Cottage"
+  },
+  {
+   "sprite": "house_green",
+   "x": 1280,
+   "y": 350,
+   "zone": "Green Cottage"
+  },
+  {
+   "sprite": "tower_red",
+   "x": 1725,
+   "y": 305,
+   "zone": "East Windmill"
+  },
+  {
+   "sprite": "sails",
+   "x": 1725,
+   "y": 115,
+   "zone": "East Windmill",
+   "center": true,
+   "frame": 3,
+   "bias": 400
+  },
+  {
+   "sprite": "tower_orange",
+   "x": 965,
+   "y": 462,
+   "zone": "Mill"
+  },
+  {
+   "sprite": "sails",
+   "x": 965,
+   "y": 382,
+   "zone": "Mill",
+   "center": true,
+   "frame": 0,
+   "bias": 400
+  },
+  {
+   "sprite": "tower_purple",
+   "x": 58,
+   "y": 600,
+   "zone": "West Windmill"
+  },
+  {
+   "sprite": "sails",
+   "x": 58,
+   "y": 540,
+   "zone": "West Windmill",
+   "center": true,
+   "frame": 5,
+   "bias": 400
+  },
+  {
+   "sprite": "tower_red",
+   "x": 1705,
+   "y": 1060,
+   "zone": "South Mill"
+  },
+  {
+   "sprite": "sails",
+   "x": 1705,
+   "y": 985,
+   "zone": "South Mill",
+   "center": true,
+   "frame": 2,
+   "bias": 400
+  },
+  {
+   "sprite": "house_red",
+   "x": 783,
+   "y": 565,
+   "zone": "Red Farmhouse"
+  },
+  {
+   "sprite": "house_red",
+   "x": 829,
+   "y": 565,
+   "zone": "Red Farmhouse"
+  },
+  {
+   "sprite": "house_blue",
+   "x": 944,
+   "y": 690,
+   "zone": "Blue Inn"
+  },
+  {
+   "sprite": "house_blue",
+   "x": 990,
+   "y": 690,
+   "zone": "Blue Inn"
+  },
+  {
+   "sprite": "house_blue",
+   "x": 1036,
+   "y": 690,
+   "zone": "Blue Inn"
+  },
+  {
+   "sprite": "house_orange",
+   "x": 1300,
+   "y": 670,
+   "zone": "Orange Barn"
+  },
+  {
+   "sprite": "house_orange",
+   "x": 1346,
+   "y": 670,
+   "zone": "Orange Barn"
+  },
+  {
+   "sprite": "house_green",
+   "x": 1210,
+   "y": 668,
+   "zone": "Green Hut"
+  },
+  {
+   "sprite": "house_red",
+   "x": 745,
+   "y": 692,
+   "zone": "Red Hut"
+  },
+  {
+   "sprite": "house_green",
+   "x": 535,
+   "y": 672,
+   "zone": "Green Shed"
+  },
+  {
+   "sprite": "house_purple",
+   "x": 345,
+   "y": 745,
+   "zone": "Purple House"
+  },
+  {
+   "sprite": "house_purple",
+   "x": 391,
+   "y": 745,
+   "zone": "Purple House"
+  },
+  {
+   "sprite": "house_red",
+   "x": 460,
+   "y": 865,
+   "zone": "Red House West"
+  },
+  {
+   "sprite": "house_red",
+   "x": 595,
+   "y": 860,
+   "zone": "Red House East"
+  },
+  {
+   "sprite": "house_green",
+   "x": 962,
+   "y": 890,
+   "zone": "Green Lodge"
+  },
+  {
+   "sprite": "house_green",
+   "x": 1008,
+   "y": 890,
+   "zone": "Green Lodge"
+  },
+  {
+   "sprite": "house_orange",
+   "x": 1328,
+   "y": 790,
+   "zone": "Orange Lodge"
+  },
+  {
+   "sprite": "house_orange",
+   "x": 1374,
+   "y": 790,
+   "zone": "Orange Lodge"
+  },
+  {
+   "sprite": "tower_red",
+   "x": 1815,
+   "y": 1055,
+   "zone": "Red Tower"
+  },
+  {
+   "sprite": "house_orange",
+   "x": 1840,
+   "y": 540,
+   "zone": "Hall"
+  },
+  {
+   "sprite": "house_orange",
+   "x": 1886,
+   "y": 540,
+   "zone": "Hall"
+  },
+  {
+   "sprite": "house_orange",
+   "x": 1932,
+   "y": 540,
+   "zone": "Hall"
+  },
+  {
+   "sprite": "house_purple",
+   "x": 85,
+   "y": 700,
+   "zone": "Fishing Hut"
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 225,
+   "y": 205
+  },
+  {
+   "sprite": "crop_cabbage",
+   "x": 255,
+   "y": 205
+  },
+  {
+   "sprite": "crop_beet",
+   "x": 285,
+   "y": 205
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 315,
+   "y": 205
+  },
+  {
+   "sprite": "crop_sunflower",
+   "x": 345,
+   "y": 205
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 375,
+   "y": 205
+  },
+  {
+   "sprite": "crop_cabbage",
+   "x": 225,
+   "y": 240
+  },
+  {
+   "sprite": "crop_beet",
+   "x": 255,
+   "y": 240
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 285,
+   "y": 240
+  },
+  {
+   "sprite": "crop_sunflower",
+   "x": 315,
+   "y": 240
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 345,
+   "y": 240
+  },
+  {
+   "sprite": "crop_cabbage",
+   "x": 375,
+   "y": 240
+  },
+  {
+   "sprite": "crop_beet",
+   "x": 225,
+   "y": 275
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 255,
+   "y": 275
+  },
+  {
+   "sprite": "crop_sunflower",
+   "x": 285,
+   "y": 275
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 315,
+   "y": 275
+  },
+  {
+   "sprite": "crop_cabbage",
+   "x": 345,
+   "y": 275
+  },
+  {
+   "sprite": "crop_beet",
+   "x": 375,
+   "y": 275
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 225,
+   "y": 310
+  },
+  {
+   "sprite": "crop_sunflower",
+   "x": 255,
+   "y": 310
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 285,
+   "y": 310
+  },
+  {
+   "sprite": "crop_cabbage",
+   "x": 315,
+   "y": 310
+  },
+  {
+   "sprite": "crop_beet",
+   "x": 345,
+   "y": 310
+  },
+  {
+   "sprite": "crop_kale",
+   "x": 375,
+   "y": 310
+  },
+  {
+   "sprite": "sheep",
+   "x": 1360,
+   "y": 280,
+   "frame": 2,
+   "zone": "Sheep 1"
+  },
+  {
+   "sprite": "sheep",
+   "x": 1400,
+   "y": 262,
+   "frame": 0,
+   "zone": "Sheep 2"
+  },
+  {
+   "sprite": "sheep",
+   "x": 1440,
+   "y": 285,
+   "frame": 1,
+   "zone": "Sheep 3"
+  },
+  {
+   "sprite": "sheep",
+   "x": 1385,
+   "y": 302,
+   "frame": 1,
+   "zone": "Sheep 4"
+  },
+  {
+   "sprite": "pig",
+   "x": 1130,
+   "y": 290,
+   "frame": 2,
+   "zone": "Pig 1"
+  },
+  {
+   "sprite": "pig",
+   "x": 1450,
+   "y": 302,
+   "frame": 2,
+   "zone": "Pig 2"
+  },
+  {
+   "sprite": "pig",
+   "x": 478,
+   "y": 578,
+   "frame": 3,
+   "zone": "Pig 3"
+  },
+  {
+   "sprite": "pig",
+   "x": 1135,
+   "y": 632,
+   "frame": 3,
+   "zone": "Pig 4"
+  },
+  {
+   "sprite": "cow",
+   "x": 265,
+   "y": 298,
+   "frame": 0,
+   "zone": "Cow 1"
+  },
+  {
+   "sprite": "cow",
+   "x": 548,
+   "y": 702,
+   "frame": 2,
+   "zone": "Cow 2"
+  },
+  {
+   "sprite": "cow",
+   "x": 1495,
+   "y": 812,
+   "frame": 2,
+   "zone": "Cow 3"
+  },
+  {
+   "sprite": "chicken",
+   "x": 1235,
+   "y": 662,
+   "frame": 3,
+   "zone": "Chicken 1"
+  },
+  {
+   "sprite": "chicken",
+   "x": 1180,
+   "y": 302,
+   "frame": 1,
+   "zone": "Chicken 2"
+  },
+  {
+   "sprite": "chicken",
+   "x": 625,
+   "y": 717,
+   "frame": 0,
+   "zone": "Chicken 3"
+  },
+  {
+   "sprite": "duck",
+   "x": 905,
+   "y": 238,
+   "frame": 1,
+   "zone": "Duck 1"
+  },
+  {
+   "sprite": "duck",
+   "x": 940,
+   "y": 226,
+   "frame": 1,
+   "zone": "Duck 2"
+  },
+  {
+   "sprite": "duck",
+   "x": 1000,
+   "y": 246,
+   "frame": 1,
+   "zone": "Duck 3"
+  },
+  {
+   "sprite": "mushroom",
+   "x": 1100,
+   "y": 600,
+   "frame": 2
+  },
+  {
+   "sprite": "mushroom",
+   "x": 810,
+   "y": 560,
+   "frame": 2
+  },
+  {
+   "sprite": "mushroom",
+   "x": 1350,
+   "y": 880,
+   "frame": 2
+  },
+  {
+   "sprite": "mushroom",
+   "x": 640,
+   "y": 470,
+   "frame": 1
+  },
+  {
+   "sprite": "coracle",
+   "x": 100,
+   "y": 748
+  },
+  {
+   "sprite": "coracle",
+   "x": 1612,
+   "y": 572
+  },
+  {
+   "sprite": "coracle",
+   "x": 1442,
+   "y": 1032
+  }
+ ],
+ "forests": [
+  {
+   "x": 560,
+   "y": 390,
+   "w": 230,
+   "h": 250,
+   "spacing": 52,
+   "pineEvery": 5
+  },
+  {
+   "x": 1080,
+   "y": 450,
+   "w": 320,
+   "h": 190,
+   "spacing": 52,
+   "pineEvery": 5
+  },
+  {
+   "x": 1060,
+   "y": 740,
+   "w": 340,
+   "h": 140,
+   "spacing": 52,
+   "pineEvery": 6
+  },
+  {
+   "x": 330,
+   "y": 185,
+   "w": 230,
+   "h": 150,
+   "spacing": 52,
+   "pineEvery": 4
+  },
+  {
+   "x": 1360,
+   "y": 140,
+   "w": 140,
+   "h": 100,
+   "spacing": 52,
+   "pineEvery": 4
+  },
+  {
+   "x": 440,
+   "y": 480,
+   "w": 120,
+   "h": 110,
+   "spacing": 52,
+   "pineEvery": 5
+  }
+ ]
+}
