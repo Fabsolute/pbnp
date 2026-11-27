@@ -1,0 +1,431 @@
+[
+ {
+  "name": "t_grass",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 32,
+  "y": 16,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "t_grass_a",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 16,
+  "y": 32,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "t_grass_b",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 48,
+  "y": 32,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "t_sand",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 80,
+  "y": 16,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "t_dirt",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 16,
+  "y": 112,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "t_river",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 352,
+  "y": 112,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "t_water",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 224,
+  "y": 304,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "t_water_b",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 176,
+  "y": 288,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "t_cliff",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 176,
+  "y": 64,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "tower_blue",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 472,
+  "y": 151,
+  "w": 32,
+  "h": 99,
+  "frames": 1
+ },
+ {
+  "name": "cap_blue",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 149,
+  "w": 32,
+  "h": 11,
+  "frames": 1
+ },
+ {
+  "name": "house_blue",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 168,
+  "w": 32,
+  "h": 56,
+  "frames": 1,
+  "parts": [
+   {
+    "sprite": "cap_blue",
+    "dx": 0,
+    "dy": 53
+   }
+  ]
+ },
+ {
+  "name": "tower_green",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 472,
+  "y": 279,
+  "w": 32,
+  "h": 99,
+  "frames": 1
+ },
+ {
+  "name": "cap_green",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 277,
+  "w": 32,
+  "h": 11,
+  "frames": 1
+ },
+ {
+  "name": "house_green",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 296,
+  "w": 32,
+  "h": 56,
+  "frames": 1,
+  "parts": [
+   {
+    "sprite": "cap_green",
+    "dx": 0,
+    "dy": 53
+   }
+  ]
+ },
+ {
+  "name": "tower_orange",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 472,
+  "y": 407,
+  "w": 32,
+  "h": 99,
+  "frames": 1
+ },
+ {
+  "name": "cap_orange",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 405,
+  "w": 32,
+  "h": 11,
+  "frames": 1
+ },
+ {
+  "name": "house_orange",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 424,
+  "w": 32,
+  "h": 56,
+  "frames": 1,
+  "parts": [
+   {
+    "sprite": "cap_orange",
+    "dx": 0,
+    "dy": 53
+   }
+  ]
+ },
+ {
+  "name": "tower_red",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 472,
+  "y": 535,
+  "w": 32,
+  "h": 99,
+  "frames": 1
+ },
+ {
+  "name": "cap_red",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 533,
+  "w": 32,
+  "h": 11,
+  "frames": 1
+ },
+ {
+  "name": "house_red",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 552,
+  "w": 32,
+  "h": 56,
+  "frames": 1,
+  "parts": [
+   {
+    "sprite": "cap_red",
+    "dx": 0,
+    "dy": 53
+   }
+  ]
+ },
+ {
+  "name": "tower_purple",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 472,
+  "y": 663,
+  "w": 32,
+  "h": 99,
+  "frames": 1
+ },
+ {
+  "name": "cap_purple",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 661,
+  "w": 32,
+  "h": 11,
+  "frames": 1
+ },
+ {
+  "name": "house_purple",
+  "sheet": "spr_tileset_sunnysideworld_16px",
+  "x": 520,
+  "y": 680,
+  "w": 32,
+  "h": 56,
+  "frames": 1,
+  "parts": [
+   {
+    "sprite": "cap_purple",
+    "dx": 0,
+    "dy": 53
+   }
+  ]
+ },
+ {
+  "name": "tree_round",
+  "sheet": "spr_deco_tree_01_strip4",
+  "x": 0,
+  "y": 0,
+  "w": 32,
+  "h": 34,
+  "frames": 4,
+  "opaqueOnly": true
+ },
+ {
+  "name": "tree_pine",
+  "sheet": "spr_deco_tree_02_strip4",
+  "x": 0,
+  "y": 0,
+  "w": 28,
+  "h": 43,
+  "frames": 4,
+  "opaqueOnly": true
+ },
+ {
+  "name": "mushroom",
+  "sheet": "spr_deco_mushroom_red_01_strip4",
+  "x": 0,
+  "y": 0,
+  "w": 16,
+  "h": 16,
+  "frames": 4
+ },
+ {
+  "name": "sheep",
+  "sheet": "spr_deco_sheep_01_strip4",
+  "x": 0,
+  "y": 0,
+  "w": 32,
+  "h": 32,
+  "frames": 4,
+  "opaqueOnly": true
+ },
+ {
+  "name": "pig",
+  "sheet": "spr_deco_pig_01_strip4",
+  "x": 0,
+  "y": 0,
+  "w": 32,
+  "h": 32,
+  "frames": 4,
+  "opaqueOnly": true
+ },
+ {
+  "name": "cow",
+  "sheet": "spr_deco_cow_strip4",
+  "x": 0,
+  "y": 0,
+  "w": 32,
+  "h": 32,
+  "frames": 4,
+  "opaqueOnly": true
+ },
+ {
+  "name": "chicken",
+  "sheet": "spr_deco_chicken_01_strip4",
+  "x": 0,
+  "y": 0,
+  "w": 32,
+  "h": 32,
+  "frames": 4,
+  "opaqueOnly": true
+ },
+ {
+  "name": "duck",
+  "sheet": "spr_deco_duck_01_strip4",
+  "x": 0,
+  "y": 0,
+  "w": 16,
+  "h": 16,
+  "frames": 4,
+  "opaqueOnly": true
+ },
+ {
+  "name": "sails",
+  "sheet": "spr_deco_windmill_withshadow_strip9",
+  "x": 0,
+  "y": 0,
+  "w": 112,
+  "h": 112,
+  "frames": 9
+ },
+ {
+  "name": "icon_stopwatch",
+  "sheet": "stopwatch",
+  "x": 0,
+  "y": 0,
+  "w": 10,
+  "h": 12,
+  "frames": 1
+ },
+ {
+  "name": "icon_confirm",
+  "sheet": "confirm",
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 11,
+  "frames": 1
+ },
+ {
+  "name": "icon_arrow_right",
+  "sheet": "arrow_right",
+  "x": 0,
+  "y": 0,
+  "w": 8,
+  "h": 8,
+  "frames": 1
+ },
+ {
+  "name": "icon_basket",
+  "sheet": "basket",
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 12,
+  "frames": 1
+ },
+ {
+  "name": "sails_anim",
+  "sheet": "spr_deco_windmill_strip9",
+  "x": 0,
+  "y": 0,
+  "w": 112,
+  "h": 112,
+  "frames": 9
+ },
+ {
+  "name": "coracle",
+  "sheet": "spr_deco_coracle_land",
+  "x": 0,
+  "y": 0,
+  "w": 32,
+  "h": 30,
+  "frames": 1
+ },
+ {
+  "name": "crop_cabbage",
+  "sheet": "cabbage_05",
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 11,
+  "frames": 1
+ },
+ {
+  "name": "crop_kale",
+  "sheet": "kale_05",
+  "x": 0,
+  "y": 0,
+  "w": 14,
+  "h": 11,
+  "frames": 1
+ },
+ {
+  "name": "crop_beet",
+  "sheet": "beetroot_05",
+  "x": 0,
+  "y": 0,
+  "w": 16,
+  "h": 16,
+  "frames": 1
+ },
+ {
+  "name": "crop_sunflower",
+  "sheet": "sunflower_05",
+  "x": 0,
+  "y": 0,
+  "w": 13,
+  "h": 16,
+  "frames": 1
+ }
+]
